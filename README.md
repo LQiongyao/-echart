@@ -1,2 +1,19 @@
-# -echart
-对照一个静态页面效果图，学习使用echart,其中的小难点是实现地图的散点
+# elephant_test
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
